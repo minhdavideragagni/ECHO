@@ -3,6 +3,11 @@
   [class*="col-"] {
     width: 100%;
   }
+  header {
+	height: 75vh;
+	background: url(../images/mockup1.png) no-repeat center;
+	padding: 2% 0% 0% 2%;
+ }
 }
 
 body { font-family: 'Quicksand', sans-serif !important;}
