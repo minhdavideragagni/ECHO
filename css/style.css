@@ -3,6 +3,9 @@
   [class*="col-"] {
     width: 100%;
   }
+  [class*="image"] {
+    width: 50%;
+  }
 }
 
 body { font-family: 'Quicksand', sans-serif !important;}
