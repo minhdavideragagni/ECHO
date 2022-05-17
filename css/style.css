@@ -3,10 +3,6 @@
   [class*="col-"] {
     width: 100%;
   }
-  header {
-	height: 75vh;
-	padding: 2% 0% 0% 2%;
- }
 }
 
 body { font-family: 'Quicksand', sans-serif !important;}
