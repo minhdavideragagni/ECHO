@@ -1,11 +1,7 @@
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
   [class*="col-"] {
-    width: 100%;
-  }
-  [class*="image"] {
-    width: 100%;
-    height: 50%;
+    width: 80%;
   }
 }
 
