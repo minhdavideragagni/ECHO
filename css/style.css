@@ -1,7 +1,7 @@
 @media only screen and (max-width: 600px) {
   /* For mobile phones: */
   [class*="col-"] {
-    width: 1000%;
+    width: 100%;
   }
 }
 
@@ -31,16 +31,16 @@ footer {background-color: #FFBE0B; padding: 5% 5% 5% 5%; text-align: center;}
 #icon2 {font-size: 3em; padding-top: 5%; padding-bottom: 10%; color: #3A86FF;}
 #insta {font-size: 3em; padding-bottom: 3%; color: #FF006E;}
 
-.bau {font-size: 15pt; padding-bottom: 4%; color: white;}
+.bau {font-size: 15pt; padding-bottom: 4%; color: white; font-weight: bold;}
 .miao {font-size: 30pt; padding-bottom: 1%; font-family: 'DM Sans', sans-serif;}
 .cip {font-size: 15pt; padding-top: 1%; padding-bottom: 6%; color: white;}
 #tooth {font-size: 3em; color: white; text-align: left;}
 
-.bau2 {font-size: 15pt; color: white;}
+.bau2 {font-size: 15pt; color: white; font-weight: bold;}
 .miao2 {font-size: 30pt; font-family: 'DM Sans', sans-serif;}
 .cip2 {font-size: 15pt; padding-bottom: 3%; color: white;}
 
-.wof {font-size: 15pt; padding-bottom: 4%; color: white; text-align: left;}
+.wof {font-size: 15pt; padding-bottom: 4%; color: white; text-align: left; font-weight: bold;}
 .bee {font-size: 30pt; font-family: 'DM Sans', sans-serif; color: white; text-align: left; padding-bottom: 1%;}
 .cracra {font-size: 15pt; padding-top: 1%; padding-bottom: 6%; color: white; text-align: left;}
 #ronf {text-align: left;}
@@ -55,20 +55,22 @@ footer {background-color: #FFBE0B; padding: 5% 5% 5% 5%; text-align: center;}
 .muu {font-size: 30pt; font-family: 'DM Sans', sans-serif; color: white; text-align: center;}
 .zzz {font-size: 15pt; padding-top: 1%; padding-bottom: 4%; color: white;}
 
-.pif {font-size: 15pt; color: white;}
+.pif {font-size: 15pt; color: white; font-weight: bold;}
 .meo {font-size: 30pt; font-family: 'DM Sans', sans-serif; color: white; text-align: center; padding-top: 2%;}
-.beo {font-size: 15pt; color: white; padding-top: 2%;}
+.beo {font-size: 15pt; color: white; padding-top: 2%; font-weight: bold;}
 .iii {font-size: 15pt; padding-top: 1%; padding-bottom: 1%; color: white;}
 .ii {font-size: 15pt;color: white;}
 .io {font-size: 15pt;color: white}
 .iio {font-size: 15pt;color: white; padding-top: 3%; padding-bottom: 1%;}
 
-.pof {font-size: 15pt; color: white; padding-top: 7.5%;}
+.pof {font-size: 15pt; color: white; padding-top: 7.5%; font-weight: bold;}
 
 #branc {height: 37.5vh; width: 96vh;}
 #bronc {height: 100vh; width: 70.15vh;}
 #brinc {height: 74.25vh; width: 70.15vh;}
 #brunc {height: 19.875vh; width: 78vh;}
+#brenc {height: 77.5vh; width: 60vh;}
+#breenc {height: 50vh; width: 96vh;}
 
 .bec {color: #FFBE0B;}
 .boc {color: #FFBE0B; padding-top: 1%;}
