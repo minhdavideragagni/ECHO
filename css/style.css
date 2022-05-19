@@ -46,8 +46,6 @@ footer {background-color: #FFBE0B; padding: 5% 5% 5% 5%; text-align: center;}
 #ronf {text-align: left;}
 #ranf {margin-left: 3%;}
 
-#carouselExampleFade {padding-right: 0%;}
-#bzz {padding-right: 0%;}
 
 #craft {padding-top: 1%; color: black;}
 
@@ -60,7 +58,7 @@ footer {background-color: #FFBE0B; padding: 5% 5% 5% 5%; text-align: center;}
 .beo {font-size: 15pt; color: white; padding-top: 2%; font-weight: bold;}
 .iii {font-size: 15pt; padding-top: 1%; padding-bottom: 1%; color: white;}
 .ii {font-size: 15pt;color: white;}
-.io {font-size: 15pt;color: white}
+.io {font-size: 15pt;color: white;}
 .iio {font-size: 15pt;color: white; padding-top: 3%; padding-bottom: 1%;}
 
 .pof {font-size: 15pt; color: white; padding-top: 7.5%; font-weight: bold;}
@@ -71,7 +69,10 @@ footer {background-color: #FFBE0B; padding: 5% 5% 5% 5%; text-align: center;}
 #brunc {height: 19.875vh; width: 78vh;}
 #brenc {height: 77.5vh; width: 60vh;}
 #breenc {height: 50vh; width: 96vh;}
+#breeenc {height: 81vh; width: 144vh;}
 
 .bec {color: #FFBE0B;}
 .boc {color: #FFBE0B; padding-top: 1%;}
 .buc {color: #FFBE0B; padding-top: 3%;}
+.bic {color: #FFBE0B; padding-bottom: 3%; padding-top: 2%;}
+.bac {color: #FFBE0B; padding-bottom: 3%;}
