@@ -1,2 +1,2 @@
 # ECHO
-Il mio primo sito web
+Project for University Course Exam "Informatica Umanistica".
